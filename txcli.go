@@ -7,4 +7,5 @@ import (
 func main() {
 	tk.Pr("abc")
 	tk.Prl("good")
+	tk.Prl("this is a test")
 }
